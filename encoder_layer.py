@@ -1,4 +1,5 @@
 import tensorflow as tf
+from layer_normalization import LayerNormalization
 
 
 class EncoderLayer(tf.keras.layers.Layer):
