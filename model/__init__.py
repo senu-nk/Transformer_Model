@@ -8,3 +8,4 @@ from .multi_head_attention_layer import MultiHeadAttentionLayer
 from .embedding_layer import EmbeddingLayer
 from .transformer import Transformer
 from .tokenizer import Tokenizer
+from .layer_normalization import LayerNormalization
