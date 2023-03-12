@@ -1,7 +1,7 @@
 import tensorflow_datasets as tfds
 import numpy as np
 import tensorflow as tf
-from model.transformer import Transformer
+from model_sample.transformer import Transformer
 
 # Define some hyperparameters
 num_layers = 4
